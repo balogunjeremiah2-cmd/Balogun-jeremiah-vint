@@ -7,7 +7,7 @@
 * Framework: Flutter
 
 
-## 1. Introduction
+##  Introduction
 
 This application is a mobile Task Manager designed to help users track their daily activities. It was developed to demonstrate core Flutter concepts, including User Interface design, Navigation, and State Management, without relying on external backends or databases.
 
@@ -50,3 +50,9 @@ The app allows users to create tasks with priorities, mark them as completed, vi
     ![ait text](https://raw.githubusercontent.com/balogunjeremiah2-cmd/Balogun-jeremiah-vint/d5efe98d1a1b23ce79ac59d59aa661d6913f496a/Screenshot%202026-01-02%20163149.png)
 
     ![ait text](https://raw.githubusercontent.com/balogunjeremiah2-cmd/Balogun-jeremiah-vint/d5efe98d1a1b23ce79ac59d59aa661d6913f496a/Screenshot%202026-01-02%20163209.png)
+
+####  Author
+
+Name: Balogun Jeremiah Heritage
+
+Matric No: 24/10MSS064
