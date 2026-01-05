@@ -34,3 +34,7 @@ The app allows users to create tasks with priorities, mark them as completed, vi
 * splash Screen
   
   ![ait text](https://raw.githubusercontent.com/balogunjeremiah2-cmd/Balogun-jeremiah-vint/d5efe98d1a1b23ce79ac59d59aa661d6913f496a/Screenshot%202026-01-02%20162717.png)
+
+* welcome Screen, where users can view existing Task, delete, edit and Create Tasks.
+
+  ![ait text](https://raw.githubusercontent.com/balogunjeremiah2-cmd/Balogun-jeremiah-vint/d5efe98d1a1b23ce79ac59d59aa661d6913f496a/Screenshot%202026-01-02%20163209.png)
